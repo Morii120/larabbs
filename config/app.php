@@ -1,5 +1,5 @@
 <?php
-
+require  __DIR__ . '/helpers.php';
 return [
 
     /*
@@ -65,7 +65,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Shanghai',
 
     /*
     |--------------------------------------------------------------------------
